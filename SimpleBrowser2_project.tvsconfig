@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.SimpleBrowser2" Type="System.String" Value="SimpleBrowser2" Category="General" IsBrowsable="False" />
+</TgConfig>
