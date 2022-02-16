@@ -298,7 +298,6 @@ procedure TForm1.Chromium1TextResultAvailable(Sender: TObject;
   const aText: ustring);
 begin
      showMessage(aText);
-     showMessage(aText);
 end;
 
 procedure TForm1.Chromium1LoadEnd(Sender: TObject; const browser: ICefBrowser;

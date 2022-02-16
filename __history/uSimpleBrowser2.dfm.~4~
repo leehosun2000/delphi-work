@@ -71,6 +71,8 @@ object Form1: TForm1
     Height = 594
     Align = alClient
     TabOrder = 1
+    ExplicitLeft = -8
+    ExplicitTop = 31
   end
   object Timer1: TTimer
     Enabled = False
